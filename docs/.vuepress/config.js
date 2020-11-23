@@ -3,6 +3,7 @@ module.exports = {
   description: '持续学习',
   dest: './dist',
   port: '7777',
+  base:'/vuepress-blog/dist/',
   head: [
   ],
   markdown: {
